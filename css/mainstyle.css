@@ -1,0 +1,60 @@
+body,html{
+    /*background-color: rgb(0, 0, 0);*/
+    height: auto;
+    margin: 0px;
+    background-image: url(../background.jpg);
+}
+ul{
+    height: 100;
+    margin: 0px;
+    padding: 0%;
+}
+#div1{
+    width: 25%;
+    height: auto;
+    float: left;
+    background-color: black;
+    height: 100%;
+    width: 15%;
+
+}
+#div2{
+    width: 75%;
+    float: right;
+    text-align: left;
+    padding: 100px;
+}
+#div3{
+    color: goldenrod;
+    background-color: black;
+    float: right;
+    height: 75%;
+    opacity: .5;
+    width: 55%;
+    text-align: center;
+    margin: 8% 15%;
+}
+#div4{
+    color: goldenrod;
+    text-align: center;
+    margin-top: auto;
+    display: inline-block;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+}
+#div5{
+   margin-right: 7rem; 
+   height: 60%;
+}
+#divpic{
+    float: right;
+    width: 400px;
+}
+#divabt{
+    width: 75%;
+    float: right;
+    text-align: left;
+    padding: 100px;
+    color: goldenrod;
+    margin: auto;
+}
